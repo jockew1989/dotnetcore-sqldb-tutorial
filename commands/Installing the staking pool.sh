@@ -4,6 +4,10 @@
 
 #Commands ran
 
+export ROOT_DIR=$(pwd)
+export POOL_DIR=$(pwd)/pool
+export NODE_DIR=$POOL_DIR/relay
+
 sudo apt-get update
 sudo apt-get upgrade -y
 
