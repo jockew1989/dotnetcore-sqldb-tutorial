@@ -1,0 +1,3 @@
+ cardano-cli shelley query utxo \
+     --address addr_test1qrumcvp692l42n9phadry04rh3zz6zudwfe4d6z26z4gxe5t7eq6ek0utz72dpdhthgvrvusn8p0gt34m37e4qdl6q5s98t9r2 \
+     --testnet-magic 1097911063

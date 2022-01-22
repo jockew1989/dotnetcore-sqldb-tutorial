@@ -1,0 +1,6 @@
+   cardano-cli  transaction build-raw \
+   --tx-in addr_test1qrumcvp692l42n9phadry04rh3zz6zudwfe4d6z26z4gxe5t7eq6ek0utz72dpdhthgvrvusn8p0gt34m37e4qdl6q5s98t9r2#2 \
+   --tx-out addr_test1vrjwuh5mavq306vrt243sngazdf3tzaju87hlx0serptfxscyexkp+0 \
+   --invalid-hereafter 30458092 \
+   --fee 0 \
+   --out-file ./tx.raw 

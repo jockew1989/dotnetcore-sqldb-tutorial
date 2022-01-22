@@ -1,0 +1,3 @@
+ cardano-cli shelley stake-address registration-certificate \
+     --staking-verification-key-file ./stake.vkey \
+     --out-file ./stake.cert

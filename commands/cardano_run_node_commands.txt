@@ -1,0 +1,7 @@
+ cardano-node run \
+   --topology /home/jocke/cardano/testnet-topology.json \
+   --database-path /home/jocke/cardano/db \
+   --socket-path /home/jocke/cardano/db/node.socket \
+   --host-addr 0.0.0.0 \
+   --port 3001 \
+   --config /home/jocke/cardano/testnet-config.json
